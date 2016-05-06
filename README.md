@@ -1,10 +1,12 @@
-首先很感谢@tusenpo的game对我的启发，而且我的sound素材也来自他的项目。
+首先很感谢tusenpo的game对我的启发，而且我的sound素材也来自他的项目
 
 贴个链接：https://tusenpo.github.io/FlappyFrog/
 
-FrogNinja，每切一次都可为长者续1s!
+FrogNinja，每切一次都可为长者续1s
 
-很惭愧，就做了一点微小的工作--修改了项目中的images和sound
+很惭愧，就做了一点微小的工作--修改了images和sound
+
+而且现在还在测试中，images还未完成
 
 由此进入：https://LewisTseng.github.io/FrogNinja/
 
